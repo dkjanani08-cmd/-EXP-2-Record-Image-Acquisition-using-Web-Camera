@@ -1,4 +1,4 @@
-# Experiment 2: Image Acquisition using Web Camera
+# Experiment 2: Image Capture and Video Processing Using OpenCV
 
 ## *Name:* JANANI D
 ## *Register Number:* 212225040142
