@@ -41,10 +41,6 @@ Rotate the frame using `cv2.rotate()` and display the output.
 
 ## Program
 
-**Developed By:** SHRIVARSHAN P G
-
-**Register Number:** 212225240146
-
 ## i) Write the Frame as a JPG File
 
 ```python
